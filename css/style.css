@@ -1,0 +1,62 @@
+body{
+	background: #636262;
+	margin: 0;
+
+}
+.banner{
+	text-align: center;
+	background: #ffffff;
+	width: 1084px;
+	padding-top: 224px;
+	padding-bottom: 65px;
+	padding-left: 160px;
+	padding-right: 84px;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(../image/holud.jpeg);
+	background-attachment: fixed;
+	background-position: bottom;
+}
+p{
+	line-height: 1.5;
+	background: #00000005;
+	width: 821px;
+	color: #ffffff8c;
+	margin-top: 0;
+}
+h1{
+	color: white;
+	margin: 0;
+	width: 919px;
+	font-size: 45px;
+	font-family: cursive;
+}
+.maal{padding: 58px;background: #333332a6;}
+
+.banner2{
+	text-align: center;
+	background: #ebebec;
+	width: 1084px;
+	padding-top: 224px;
+	padding-bottom: 65px;
+	padding-left: 160px;
+	padding-right: 84px;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(../image/ghori.jpeg);
+}
+.banner3{
+	text-align: center;
+	background: #ebebec;
+	width: 1084px;
+	padding-top: 224px;
+	padding-bottom: 65px;
+	padding-left: 160px;
+	padding-right: 84px;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(../image/golapi.jpeg);
+}
